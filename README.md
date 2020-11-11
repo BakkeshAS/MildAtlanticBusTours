@@ -1,7 +1,7 @@
 # MildAtlanticBusTours
 MildAtlanticBusTours MABT is a Windows Forms built using C# to assist the sales representatives at the front desk of the company.
 
-**Problem Statement:**
+## Problem Statement:
 
 Create a well-designed application for Mild Atlantic Bus Tours (MABT), a company that provides bus excursions to well-known landmarks on the west coast of Ireland. The purpose of your application is to enable the companies front of house sales team to generate prices and process bookings for these excursions. The company currently provides excursions to the following locations, each of which is priced based on location and departure time.
 
