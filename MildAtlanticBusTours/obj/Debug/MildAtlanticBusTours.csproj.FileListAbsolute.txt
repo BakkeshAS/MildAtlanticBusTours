@@ -1,0 +1,10 @@
+E:\_ NUI-G\_1_Sem\Subjects\MS806 - Business Application Programming - Mr. Neil Keane\Assignments\Assignments02\MildAtlanticBusTours\MildAtlanticBusTours\bin\Debug\MildAtlanticBusTours.exe.config
+E:\_ NUI-G\_1_Sem\Subjects\MS806 - Business Application Programming - Mr. Neil Keane\Assignments\Assignments02\MildAtlanticBusTours\MildAtlanticBusTours\bin\Debug\MildAtlanticBusTours.exe
+E:\_ NUI-G\_1_Sem\Subjects\MS806 - Business Application Programming - Mr. Neil Keane\Assignments\Assignments02\MildAtlanticBusTours\MildAtlanticBusTours\bin\Debug\MildAtlanticBusTours.pdb
+E:\_ NUI-G\_1_Sem\Subjects\MS806 - Business Application Programming - Mr. Neil Keane\Assignments\Assignments02\MildAtlanticBusTours\MildAtlanticBusTours\obj\Debug\MildAtlanticBusTours.csprojAssemblyReference.cache
+E:\_ NUI-G\_1_Sem\Subjects\MS806 - Business Application Programming - Mr. Neil Keane\Assignments\Assignments02\MildAtlanticBusTours\MildAtlanticBusTours\obj\Debug\MildAtlanticBusTours.MildAtlanticBusToursForm.resources
+E:\_ NUI-G\_1_Sem\Subjects\MS806 - Business Application Programming - Mr. Neil Keane\Assignments\Assignments02\MildAtlanticBusTours\MildAtlanticBusTours\obj\Debug\MildAtlanticBusTours.Properties.Resources.resources
+E:\_ NUI-G\_1_Sem\Subjects\MS806 - Business Application Programming - Mr. Neil Keane\Assignments\Assignments02\MildAtlanticBusTours\MildAtlanticBusTours\obj\Debug\MildAtlanticBusTours.csproj.GenerateResource.cache
+E:\_ NUI-G\_1_Sem\Subjects\MS806 - Business Application Programming - Mr. Neil Keane\Assignments\Assignments02\MildAtlanticBusTours\MildAtlanticBusTours\obj\Debug\MildAtlanticBusTours.csproj.CoreCompileInputs.cache
+E:\_ NUI-G\_1_Sem\Subjects\MS806 - Business Application Programming - Mr. Neil Keane\Assignments\Assignments02\MildAtlanticBusTours\MildAtlanticBusTours\obj\Debug\MildAtlanticBusTours.exe
+E:\_ NUI-G\_1_Sem\Subjects\MS806 - Business Application Programming - Mr. Neil Keane\Assignments\Assignments02\MildAtlanticBusTours\MildAtlanticBusTours\obj\Debug\MildAtlanticBusTours.pdb
